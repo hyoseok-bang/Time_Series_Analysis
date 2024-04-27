@@ -1,2 +1,2 @@
 # Time_Series_Analysis
-Time Series Analysis Lecture &amp; Hands-on Practice
+Time Series Analysis Study Materials & Hands-on Practice
